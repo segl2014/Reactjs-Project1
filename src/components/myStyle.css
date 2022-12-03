@@ -1,0 +1,9 @@
+.primary {
+    color:orange;
+}
+
+/* Specify multiple classes the simplest option is to use template literals */
+.font-xl {
+    font-size: 72px;
+    color: blue;
+}
